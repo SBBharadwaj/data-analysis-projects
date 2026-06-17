@@ -1,0 +1,4 @@
+hello world read in w+we are adding new line
+we are adding new line
+adding new line hello worldusing seek
+using seek
